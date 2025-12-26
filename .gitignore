@@ -1,0 +1,7 @@
+# Claude Code settings
+.claude/
+
+# MakeCode
+built/
+*.hex
+*.uf2

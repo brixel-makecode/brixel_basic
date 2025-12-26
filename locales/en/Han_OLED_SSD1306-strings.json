@@ -1,0 +1,8 @@
+{
+  "Han_OLED_SSD1306.init|block": "Initialize OLED(SSD1306) Korean Display",
+  "Han_OLED_SSD1306.clearDisplay|block": "Clear OLED Display",
+  "Han_OLED_SSD1306.printString|block": "Print Text %str at X %x Y %y Inverse %inverse",
+  "Han_OLED_SSD1306.showBigNumber|block": "Show Big Number %num at X %x Y %y Inverse %inverse",
+  "Han_OLED_SSD1306.drawBarGraph|block": "Draw Bar Graph at X %x Y %y Value %value",
+  "{id:category}Han_OLED_SSD1306": "OLED(SSD1306) Korean"
+}

@@ -1,0 +1,8 @@
+{
+  "Han_OLED_SSD1306.init|block": "OLED(SSD1306) 한글 디스플레이 설정",
+  "Han_OLED_SSD1306.clearDisplay|block": "OLED 화면 지우기",
+  "Han_OLED_SSD1306.printString|block": "텍스트 출력 %str 위치 X %x Y %y 반전 %inverse",
+  "Han_OLED_SSD1306.showBigNumber|block": "큰 숫자 표시 %num 위치 X %x Y %y 반전 %inverse",
+  "Han_OLED_SSD1306.drawBarGraph|block": "막대 그래프 그리기 X %x Y %y 값 %value",
+  "{id:category}Han_OLED_SSD1306": "OLED(SSD1306) 한글"
+}
