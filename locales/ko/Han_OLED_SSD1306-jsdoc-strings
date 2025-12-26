@@ -1,0 +1,8 @@
+{
+  "Han_OLED_SSD1306.init": "Initialize OLED(SSD1306) Korean Display",
+  "Han_OLED_SSD1306.clearDisplay": "Clear OLED Display",
+  "Han_OLED_SSD1306.printString": "Print Text",
+  "Han_OLED_SSD1306.showBigNumber": "Show Big Number",
+  "Han_OLED_SSD1306.drawBarGraph": "Draw Bar Graph"
+}
+
