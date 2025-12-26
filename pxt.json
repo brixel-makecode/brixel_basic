@@ -1,16 +1,21 @@
 {
-    "name": "한글_OLED확장",
-    "description": "",
+    "name": "oled-korean-display",
+    "version": "1.0.0",
+    "description": "OLED(SSD1306) Korean Display Extension for MakeCode",
+    "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
-        "main.blocks",
         "main.ts",
-        "README.md",
-        "fonts.ts"
+        "fonts.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
     ],
     "preferredEditor": "tsprj"
 }
